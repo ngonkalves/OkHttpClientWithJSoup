@@ -1,3 +1,16 @@
+#############################
+# Android Studio ignores    #
+#############################
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+#############################
+# Java ignores              #
+#############################
 *.class
 
 # Mobile Tools for Java (J2ME)
